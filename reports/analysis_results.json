@@ -1,0 +1,12 @@
+{
+  "analysis": "Welch's independent-samples t-test",
+  "n_control": 100,
+  "n_treatment": 100,
+  "mean_control": 49.49730388516141,
+  "mean_treatment": 53.893681621790584,
+  "mean_difference_treatment_minus_control": 4.3963777366291765,
+  "t_statistic": 3.516905779782117,
+  "p_value": 0.0005471811144303668,
+  "data_type": "synthetic",
+  "interpretation_warning": "Synthetic demonstration only; not evidence of a real-world effect."
+}
