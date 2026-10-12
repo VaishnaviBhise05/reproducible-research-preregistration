@@ -22,13 +22,11 @@ Python 3.12 is recommended for the pinned dependencies.
 
 Install dependencies:
 
-```powershell
 python -m pip install -r requirements.txt
 ```
 
 Run automated tests:
 
-```powershell
 python -m pytest -v
 ```
 
