@@ -30,10 +30,3 @@ Run automated tests:
 python -m pytest -v
 ```
 
-## Reproducibility
-
-The project pins dependency versions and is designed to separate
-the preregistered analysis plan from the code and research results.
-
-No real research findings should be reported until the research
-question, data, and analysis plan have been specified.
